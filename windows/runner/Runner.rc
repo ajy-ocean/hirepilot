@@ -93,7 +93,7 @@ BEGIN
             VALUE "FileDescription", "hirepilot" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
             VALUE "InternalName", "hirepilot" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2026 com.hirepilot.app. All rights reserved." "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2026 com.hirepilot.app All rights reserved." "\0"
             VALUE "OriginalFilename", "hirepilot.exe" "\0"
             VALUE "ProductName", "hirepilot" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
