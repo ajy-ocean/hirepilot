@@ -2,14 +2,13 @@ import 'dart:convert';
 import 'dart:typed_data';
 import 'package:flutter/material.dart';
 import 'package:file_picker/file_picker.dart';
-import 'package:flutter_dotenv/flutter_dotenv.dart';
 import 'package:syncfusion_flutter_pdf/pdf.dart';
 import 'package:google_generative_ai/google_generative_ai.dart';
 import '../models/analysis_response.dart';
 
 class AIProvider extends ChangeNotifier {
   // Target Key Injection
-  static String get _apiKey => dotenv.env['GEMINI_API_KEY'] ?? "";
+  static const String _apiKey = String.fromEnvironment('GEMINI_API_KEY');
 
   String _fileName = "";
   String _extractedText = "";
