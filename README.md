@@ -10,7 +10,7 @@
 [![Flutter Core](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
 [![Gemini Engine](https://img.shields.io/badge/Google_Gemini-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white)](https://aistudio.google.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![GitHub repo size](https://img.shields.io/github/repo-size/ajy-ocean/hirepilot?style=for-the-badge&color=orange)](https://github.com/ajy-oean/hirepilot)
+[![GitHub repo size](https://img.shields.io/github/repo-size/ajy-ocean/hirepilot?style=for-the-badge&color=orange)](https://github.com/ajy-ocean/hirepilot)
 
 <p align="center">
     <strong>HirePilot</strong> is a sleek, minimalistic, high-performance mobile application built to bridge the structural gap between competitive developer resumes and modern Applicant Tracking Systems (ATS). Powered by Google's advanced <strong>Gemini 2.5 Flash API</strong>, it delivers instant compliance grading, gap visualization matrix trackers, and dynamically tailored mock technical interview simulators.
