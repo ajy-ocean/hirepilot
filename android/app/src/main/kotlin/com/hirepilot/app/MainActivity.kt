@@ -1,4 +1,4 @@
-package com.hirepilot.app.hirepilot
+package com.hirepilot.app
 
 import io.flutter.embedding.android.FlutterActivity
 
